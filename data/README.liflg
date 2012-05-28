@@ -1,0 +1,47 @@
+
+			Aliens versus Predator: multilanguage version 1.0
+
+========================================
+
+ABOUT
+=====
+
+	Chase, hide or advance in over 40 levels of the most nightmarish, 
+	chillingly detailed futuristic environment your mind could ever imagine. 
+	Now the three most ferocious species in the universe are pitted against 
+	one another in a battle for the ultimate prize- survival.
+	Choose to be a Colonial Marine, a Predator, or an Alien as
+	you make your way through horrifyingly suspenseful environments 
+	ranging from spaceships and colonial bases to spacestations and 
+	eerie planetscapes. One wrong move turns you from hunter into prey. 
+	Your species is counting on you.
+	
+SYSTEM REQUIREMENTS
+===============
+
+	You need the following package versions to run
+	the games you install with a LIFLG installer:
+
+	glibc >= 2.3.5
+	SDL >= 1.2.7
+	OpenAL >= 0.8
+	
+RUNNING THE GAME
+=============
+
+	run "avp" to play
+
+NOTES
+====
+
+	- You can set the keyboard to US layout for better
+          compatibility. Uncomment the line with USLAYOUT if
+          you want to use it.
+	
+TECHNICAL SUPPORT
+=============
+
+	Website: http://liflg.org/
+	Forum:   http://liflg.org/forum/
+
+The Loki Installers for Linux Gamers Team
